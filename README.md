@@ -1,2 +1,3 @@
-# lottery-smart-contract
-Smart Contract Lottery made in solidity
+# Lottery smart contract
+
+Smart Contract Lottery made in solidity.
